@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+.contenu{
+   background-color: rgb(87, 87, 236);
+   padding: 10PX;
+   margin-left: 300px;
+   width: 700px;
+}
+.p{
+  text-align: center;
+
+}
+input{
+    display: flex;
+}
+table{
+    width: 100%;
+    margin-top: 50px;
+}
+table,td{
+    height: 20px;
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+  .add,.remove{
+    height: 32px;
+    width: 139px;
+  }
